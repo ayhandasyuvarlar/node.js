@@ -56,6 +56,9 @@
 
 #### In the previous section, we successfully installed Node.js. Let's verify by checking the installed version. Run the following command in terminal.
 
-````js
-node -v ```
-````
+```js
+node -v
+ ```
+## briefly
+
+#### In summary, Node.js is a popular programming environment that can be used to build high-scale applications that need to support multiple concurrent requests. Single-threaded non-blocking I/O makes it an excellent choice for both real-time and streaming applications. Easy to use Nodejs

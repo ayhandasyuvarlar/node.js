@@ -1,3 +1,3 @@
 ### NODE JS
 
-![img]('/img/js.png')
+![img](/img/js.png)

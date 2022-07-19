@@ -15,23 +15,29 @@
 ## What NodeJS
 
 #### Node.js is a single-threaded, open-source, cross-platform runtime environment for building fast and scalable server and network applications.
- 
+
 #### It runs on the V8 JavaScript engine and uses an event-driven, non-blocking I/O architecture, making it suitable for efficient and real-time applications.
 
 ## What Language Is Node.js Written In?
 
 #### Node.js is written in C, C++ and JavaScript.
 
-## Features  of Node.js
+## Features of Node.js
 
 #### Node.js has grown rapidly over the past few years. Thanks to the wide list of features it provides, it has become a favorite of developers. Let's take a look at these features:
 
 #### Easy: Getting started with Node.js is pretty easy. It is a good choice for those new to web development. With lots of tutorials and a large community, in short, strong support, getting started with Node.js is easy.
+
 #### Scalable: Provides broad scalability for applications. Being single-threaded, Node.js can handle large numbers of simultaneous connections with high efficiency.
+
 #### Speed: Non-blocking thread execution makes Node.js even faster and more efficient.
+
 #### Packages: There are many open source Node.js packages available that can simplify your work. There are over a million packages in the NPM ecosystem today.
+
 #### Powerful Back-end: Node.js is written in C and C++, this speeds it up and adds features like network support.
+
 #### Multi-platform: Cross-platform support lets you build SaaS websites, desktop apps, and even mobile apps, all using Node.js.
+
 #### Sustainable: Node.js is an easy choice for developers as it can be managed as a single language with both front-end and back-end JavaScript.
 
 ## Is Node.js a Programming Language?
@@ -39,10 +45,17 @@
 #### In one word: no.Node.js is not a programming language. Instead, it is a runtime environment used to run JavaScript outside of the browser.Node.js is not a framework (a platform for developing software applications). The Node.js runtime is built on a programming language (in this case JavaScript) and helps run the frameworks themselves.To summarize, Node.js is neither a programming language nor a framework; In short, node.js is a working environment.
 
 ## Getting Started with Node.js
+
 #### Deciding where to start with Node.js can be overwhelming. Luckily, it's simple enough to set up and then you can run test runs for yourself.
 
 ## How to Install Node.js
 
-### Download [Windows Installer](https://nodejs.org/en/#home-downloadhead) directly from nodejs.org website.
+#### Download [Windows Installer](https://nodejs.org/en/#home-downloadhead) directly from nodejs.org website.
 
+#### Check Installed Node.js Version
 
+#### In the previous section, we successfully installed Node.js. Let's verify by checking the installed version. Run the following command in terminal.
+
+````js
+node -v ```
+````

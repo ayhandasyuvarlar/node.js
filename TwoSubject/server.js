@@ -7,7 +7,7 @@ const server = http.createServer((req, res) => {
   switch (req.url) {
     case "/":
       path += "index.html";
-      res.statusCode = 200
+      res.statusCode = 201
       break;
     case "/about":
       path += "about.html";
